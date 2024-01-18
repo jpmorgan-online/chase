@@ -302,9 +302,9 @@ hr {
 }
 
 .alertp {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 400;
-    color: rgba(0, 0, 0, 0.944);
+    color: rgba(0, 0, 0, 0.927);
 }
 
 .login_element_one img {
@@ -316,33 +316,8 @@ hr {
 .recentlypart {
     font-size: 14px;
     font-weight: 400;
-    color: rgba(0, 0, 0, 0.799);
+    color: rgba(0, 0, 0, 0.872);
     text-align: center;
-}
-
-.checkbtns {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-
-.checkbtnsdivs input {
-    width: 15px;
-    height: 15px;
-}
-
-.checkbtnsdivs label {
-    font-size: 14px;
-    font-weight: 400;
-    color: rgba(0, 0, 0, 0.87);
-}
-
-.checkbtnsdivs {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 2px;
 }
 
 /* @media screen and (max-width:600px) {
